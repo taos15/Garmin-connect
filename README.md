@@ -1,4 +1,4 @@
-# taos- Garmin-connect
+# Taos Garmin-connect Integration
 
 ## Privacy Policy for Toas Garmin Connect Integration App
 
